@@ -1,3 +1,3 @@
-# Docker Resume Repository
+# Kubernetes Resume Repository
 
-This repository is for create your own online resume using Docker & Apache.
+This repository is for create your own online resume using Kubernetes & Nginx.
